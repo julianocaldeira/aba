@@ -9,7 +9,9 @@ Un jeu s'installe.
 Jan Van Eyck, dans son célèbre tableau *Les Époux Arnolfini*, fait le portrait du couple qui attend son premier enfant. 
 ![arnolfini-portrait-e1397099128643.jpg](./images/arnolfini-portrait-e1397099128643.jpg)
 
+
 Au fond, loin de nos regards, un petit miroir convexe est accroché, révélant une autre face de la scène : on voit le couple de dos et à qui ils s'adressent à la place du peintre. 
+
 ![050-02-ArnolfiniMiroir.jpg](050-02-ArnolfiniMiroir.jpg)
 Girolamo Francesco Maria Mazzola, dit Parmigianino, fait un autoportrait où il se représente déformé par le propre dispositif de réflexion. 
 ![800px-Parmigianino_Selfportrait.jpg](800px-Parmigianino_Selfportrait.jpg)
