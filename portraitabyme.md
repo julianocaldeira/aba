@@ -14,7 +14,7 @@ Au fond, loin de nos regards, un petit miroir convexe est accroché, révélant 
 ![050-02-ArnolfiniMiroir.jpg](./images/050-02-ArnolfiniMiroir.jpg)
 
 
-Girolamo Francesco Maria Mazzola, dit Parmigianino, fait un autoportrait où il se représente déformé par le propre dispositif de réflexion. 
+Girolamo Francesco Maria Mazzola, dit Parmigianino, fait un autoportrait où il se représente déformé par le propre dispositif de réflexion, dénonçant ainsi l'artifice du miroir. 
 ![800px-Parmigianino_Selfportrait.jpg](./images/800px-Parmigianino_Selfportrait.jpg)
 
 
