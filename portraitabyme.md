@@ -36,7 +36,7 @@ Salvador Dali se peint en se voyant peignant sa propre mise-en-abyme
 ![Dali](./images/Dali%20from%20the%20back%20painting%20Gala%20from%20the%20back%20eternalized%20by%20six%20virtual%20corneas%20provisionally%20reflected%20in%20six%20real%20mirrors%20-%201973.jpg)
 
 
-Pour finir, Diego Velázquez qui, dans *Les Menines* inverse complètement l'idée initiée par Van Eyck mais aussi le point de vue du spectateur, en se peignant en train de peindre quelqu'un qui est à notre place - il s'avère qu'il s'agit du couple royal, réfléchi dans le miroir du fond de la salle qui fait office d'image dans l'image. Une tableau concentrant toute la théorie de l'art de peindre.
+Pour finir, Diego Velázquez qui, dans *Les Menines* inverse complètement l'idée initiée par Van Eyck mais aussi le point de vue du spectateur, en se peignant en train de peindre quelqu'un qui est à notre place - il s'avère qu'il s'agit du couple royal, réfléchi dans le miroir du fond de la salle qui fait office d'image dans l'image. Un tableau concentrant toute la théorie de l'art de peindre.
 ![0801vela.jpg](./images/0801vela.jpg)
 
 ### Proposition 
