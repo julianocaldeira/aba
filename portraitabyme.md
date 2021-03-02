@@ -19,6 +19,7 @@ Vermeer peint une allégorie de la peinture, en se représentant peignant l'all�
 
 ![Vermeer_Die-Malkunst.jpg](./images/imageabymee/Vermeer_Die-Malkunst.jpg)
 
+
 L’autoportrait réalisé par un artiste peignant sa propre image reflétée par un miroir est un genre existant depuis le 15e siècle.
 ![080-01-TriplesPortraits.jpg](./images/imageabymee/080-01-TriplesPortraits.jpg)  La peintresse Marcia, illustration du ‘De Claris mulieribus’ de Boccace, BnF, ms. 13420, vers 1404 / Johannes Gumpp, Autoportrait, vers 1646.
 
