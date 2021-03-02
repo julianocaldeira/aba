@@ -15,7 +15,7 @@ Au fond, loin de nos regards, un petit miroir convexe est accroché, révélant 
 ![050-02-ArnolfiniMiroir.jpg](./images/imageabymee/050-02-ArnolfiniMiroir.jpg)
 Girolamo Francesco Maria Mazzola, dit Parmigianino, fait un autoportrait où il se représente déformé par le propre dispositif de réflexion. 
 ![800px-Parmigianino_Selfportrait.jpg](./images/imageabymee/800px-Parmigianino_Selfportrait.jpg)
-Vermeer peint une allégorie de la peinture, en se représentant peignant l'allégorie de l'Histoire
+Vermeer peint une allégorie de la peinture, en se représentant peignant l'allégorie de l'Histoire.
 
 ![Vermeer_Die-Malkunst.jpg](./images/imageabymee/Vermeer_Die-Malkunst.jpg)
 L’autoportrait réalisé par un artiste peignant sa propre image reflétée par un miroir est un genre existant depuis le 15e siècle.
