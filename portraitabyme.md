@@ -7,26 +7,26 @@ Dans l'histoire de l'art, la pratique du portrait naît avec l'idée et l'affirm
 Un jeu s'installe. 
 
 Jan Van Eyck, dans son célèbre tableau *Les Époux Arnolfini*, fait le portrait du couple qui attend son premier enfant. 
-![arnolfini-portrait-e1397099128643.jpg](./images/arnolfini-portrait-e1397099128643.jpg)
+![arnolfini-portrait-e1397099128643.jpg](./images/imageabymee/arnolfini-portrait-e1397099128643.jpg)
 
 
 Au fond, loin de nos regards, un petit miroir convexe est accroché, révélant une autre face de la scène : on voit le couple de dos et à qui ils s'adressent à la place du peintre. 
 
-![050-02-ArnolfiniMiroir.jpg](./images/050-02-ArnolfiniMiroir.jpg)
+![050-02-ArnolfiniMiroir.jpg](./images/imageabymee/050-02-ArnolfiniMiroir.jpg)
 Girolamo Francesco Maria Mazzola, dit Parmigianino, fait un autoportrait où il se représente déformé par le propre dispositif de réflexion. 
-![800px-Parmigianino_Selfportrait.jpg](./images/800px-Parmigianino_Selfportrait.jpg)
+![800px-Parmigianino_Selfportrait.jpg](./images/imageabymee/800px-Parmigianino_Selfportrait.jpg)
 Vermeer peint une allégorie de la peinture, en se représentant peignant l'allégorie de l'Histoire
-![Vermeer_Die-Malkunst.jpg](./images/Vermeer_Die-Malkunst.jpg)
+![Vermeer_Die-Malkunst.jpg](./images/imageabymee/Vermeer_Die-Malkunst.jpg)
 L’autoportrait réalisé par un artiste peignant sa propre image reflétée par un miroir est un genre existant depuis le 15e siècle.
-![080-01-TriplesPortraits.jpg](./images/080-01-TriplesPortraits.jpg)  La peintresse Marcia, illustration du ‘De Claris mulieribus’ de Boccace, BnF, ms. 13420, vers 1404 / Johannes Gumpp, Autoportrait, vers 1646.
+![080-01-TriplesPortraits.jpg](./images/imageabymee/080-01-TriplesPortraits.jpg)  La peintresse Marcia, illustration du ‘De Claris mulieribus’ de Boccace, BnF, ms. 13420, vers 1404 / Johannes Gumpp, Autoportrait, vers 1646.
 
 Honoré Daumier et Norman Rockell, artiste américain, s'emparent de l'idée quelques siècles plus tard. 
-![080-02-TriplesPortraits.jpg](./images/080-02-TriplesPortraits.jpg)
+![080-02-TriplesPortraits.jpg](./images/imageabymee/080-02-TriplesPortraits.jpg)
 
 Salvador Dali se peint en se voyant peignant sa propre mise-en-abyme
-![Dali](./images/Dali%20from%20the%20back%20painting%20Gala%20from%20the%20back%20eternalized%20by%20six%20virtual%20corneas%20provisionally%20reflected%20in%20six%20real%20mirrors%20-%201973.jpg)
+![Dali](./images/imageabymee/Dali%20from%20the%20back%20painting%20Gala%20from%20the%20back%20eternalized%20by%20six%20virtual%20corneas%20provisionally%20reflected%20in%20six%20real%20mirrors%20-%201973.jpg)
 Pour finir, Diego Velázquez qui, dans *Les Menines* inverse complètement l'idée initiée par Van Eyck mais aussi le point de vue du spectateur, en se peignant en train de peindre quelqu'un qui est à notre place - il s'avère qu'il s'agit du couple royal, réfléchi dans le miroir du fond de la salle qui fait office d'image dans l'image. Une sorte de tableau concentrant toute la théorie de l'art de peindre.
-![0801vela.jpg](./images/0801vela.jpg)
+![0801vela.jpg](./images/imageabymee/0801vela.jpg)
 
 ### Proposition 
 Je vous propose de faire un autoportrait "abymé", selon le terme emprunté du texte *L'image abymée* de Christine Dubois, accessible ici : [https://journals.openedition.org/imagesrevues/304](https://journals.openedition.org/imagesrevues/304)
